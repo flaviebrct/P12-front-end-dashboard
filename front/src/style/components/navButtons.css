@@ -1,0 +1,11 @@
+.nav-button {
+  background-color: white;
+  border: 0;
+  border-radius: 6px;
+  height: 64px;
+  width: 64px;
+}
+
+.nav-button img {
+  height: 32px;
+}

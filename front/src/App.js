@@ -1,12 +1,13 @@
-import logo from './img/logo.svg';
-import './style/App.css';
+import "./style/App.css";
+
+import Header from "./components/Header.js";
+import VerticalNavigation from "./components/VerticalNavigation.js";
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-      </header>
+      <Header />
+      <VerticalNavigation />
     </div>
   );
 }

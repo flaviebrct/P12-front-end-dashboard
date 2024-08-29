@@ -1,0 +1,7 @@
+.vertical-navigation {
+  background-color: black;
+  display: flex;
+  width: 117px;
+  min-height: 100vh;
+  flex-direction: column;
+}
