@@ -2,6 +2,8 @@ import React from "react";
 
 import logo from "../img/logo.svg";
 
+import "../style/components/header.css"
+
 export default function Header() {
   return (
     <header className="App-header">
