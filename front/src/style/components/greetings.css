@@ -1,0 +1,12 @@
+.greetings-container h1 {
+  font-size: 48px;
+  margin: 0px 0px 40px 0px;
+}
+
+.greetings-container p {
+  font-size: 18px;
+}
+
+.greetings-container .user-name {
+  color: #FF0002;
+}
